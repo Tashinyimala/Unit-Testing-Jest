@@ -1,0 +1,28 @@
+{
+  "name": "Unit-Testing-Jest",
+  "version": "1.0.0",
+  "description": "TDD Unit Testing Jest",
+  "main": "functions.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "npm": "^6.8.0"
+  },
+  "devDependencies": {
+    "jest": "^24.1.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "testwatch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tashinyimala/Unit-Testing-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tashinyimala/Unit-Testing-Jest/issues"
+  },
+  "homepage": "https://github.com/Tashinyimala/Unit-Testing-Jest#readme"
+}
